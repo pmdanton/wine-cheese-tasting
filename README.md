@@ -9,8 +9,6 @@ Welcome to the repository for our French Terroir Wine and Cheese Buffet. This pr
 - `pairing3-cider-camembert.html`: HTML file for the Cider from Normandy (or alternative wines) and Camembert de Normandie pairing description
 - `pairing4-vin-jaune-comte.html`: HTML file for the Jura Vin Jaune and Comté pairing description
 - `pairing5-pineau-roquefort.html`: HTML file for the Pineau des Charentes and Roquefort pairing description
-- `pairingDescriptions.json`: JSON file containing the long descriptions for each pairing
-- `loadContent.js`: JavaScript file to load the descriptions from the JSON file into the corresponding HTML files
 - `styles.css`: Custom CSS file for styling the HTML pages (optional)
 - `README.md`: This file with an overview of the project and its contents
 
